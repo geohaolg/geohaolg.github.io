@@ -1,6 +1,4 @@
-
-
-baseurl: "https://geohaolg.github.io"  # please update this to your actual URL
+baseurl: "https://geohaolg.github.io/"  # please update this to your actual URL
 languageCode: "en-us"
 title: "A minimal Hugo website"
 theme: "hugo-xmin"
