@@ -1,6 +1,6 @@
 baseurl: "https://geohaolg.github.io/"  # please update this to your actual URL
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "haoloong"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -30,7 +30,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  footer: "&copy; [haolong huang](https://geohaolg.github.io) 2024 -- {Year} | [Github](https://github.com/geohaolg) | [Zhihu](https://zhihu.com/people/geohaolg04)"
 
 markup:
   highlight:
