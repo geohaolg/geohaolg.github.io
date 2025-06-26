@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="[https://github.com/geohaolg/geohaolg.github.io/blob/main/assets/picture/haolongwhu.png]" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />]()
+[<img src="https://github.com/geohaolg/geohaolg.github.io/blob/main/assets/picture/haolongwhu.png" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />]()
 
 # Haoloong HUANG 黄昊龙
 
