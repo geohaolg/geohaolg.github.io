@@ -4,3 +4,6 @@
 [submodule "hugo-xmin"]
 	path = hugo-xmin
 	url = https://github.com/geohaolg/hugo-xmin.git
+[submodule "themes/hugo-new"]
+	path = themes/hugo-new
+	url = https://github.com/geohaolg/hugo-xmin.git
